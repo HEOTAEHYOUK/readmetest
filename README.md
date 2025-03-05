@@ -23,4 +23,8 @@ html 코드 작성
 
  ### 인용구문 작성
  > 인용구문 작성
-
+ 
+ ### 뱃지(badge) 
+  [표시내용](url)
+ [simple icons](https://simpleicons.org/)
+ 
